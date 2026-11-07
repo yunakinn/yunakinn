@@ -1,13 +1,23 @@
 # Yuna Kim
 
-I'm an undergraduate who enjoys applying AI to real-world problems. I'm also exploring my interest in AI for healthcare.
+I'm an undergraduate studying ICT and Artificial Intelligence at Hanyang University ERICA, expecting to graduate in July 2027.
 
-Through projects in biosignal analysis, computer vision, and vision-language models, I'm learning to work with data, build models, and evaluate their results.
+I enjoy applying machine learning to practical problems, from biosignal analysis to computer vision. I'm particularly interested in how AI can be used in healthcare.
 
 [LinkedIn](https://www.linkedin.com/in/yunakinn/)
 
-## Projects
+## Experience
 
-- [Multimodal Immersion Classification](https://github.com/yunakinn/multimodal-immersion-classification) — Classifying immersion states from EEG, GSR, and PPG signals.
-- [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) — Detecting anomalies in thermal images with YOLOv8.
-- [VLM Privacy](https://github.com/yunakinn/vlm-privacy) — Exploring privacy-sensitive predictions in vision-language models.
+- **USTC FUSEP** — Research Intern, Jun–Jul 2026. Studied how hallucination-mitigation methods affect confidence and accuracy in vision-language models. [Project](https://github.com/yunakinn/vlm-privacy) · [Poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
+- **HAI Lab, Hanyang University** — Undergraduate Research Intern, Feb–Aug 2026. Worked on foundation models for segmentation and detection.
+- **DHL Lab, Hanyang University** — Undergraduate Research Intern, Mar–Sep 2025. Worked on multimodal biosignal analysis using EEG, GSR, and PPG.
+
+## Selected projects
+
+- [**Multimodal Immersion Classification**](https://github.com/yunakinn/multimodal-immersion-classification) — Built a model that combines EEG, GSR, and PPG signals to classify immersion states.
+- [**Thermal Image Anomaly Detection**](https://github.com/yunakinn/thermal-image-anomaly-detection) — Developed a YOLO-based pipeline for detecting anomalies in thermal images.
+- **LLM Compression · LG Aimers 8th** — Led a team project using GPTQ quantization to explore trade-offs between model size and performance.
+
+## Tools
+
+Python · MATLAB · PyTorch · TensorFlow · Git · Docker
