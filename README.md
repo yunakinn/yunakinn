@@ -41,11 +41,20 @@ Mar 2022 – Present · Expected graduation: Jul 2027
 
 ## Selected Projects
 
-| Project | What I worked on |
+### AI & Data
+
+| Project | Focus |
 | :--- | :--- |
-| [Multimodal Immersion Classification](https://github.com/yunakinn/multimodal-immersion-classification) | Combined EEGNet and CNN encoders with modality attention to classify immersion states from biosignals. |
-| [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Developed a YOLO-based detection pipeline with targeted augmentation and evaluation across random seeds. Computer Vision course project, Sep–Dec 2025. |
-| LLM Compression · LG Aimers 8th | Led a team project using GPTQ-based W4A16 quantization to explore trade-offs between model size and performance. Jan–Feb 2026. |
+| [MalCard](https://github.com/yunakinn/malcard-backend) | Pronunciation assessment backend with phoneme alignment, scoring, feedback generation, and FastAPI endpoints. |
+| [Lunit Hackathon](https://github.com/yunakinn/lunit_urusa) | Medical conversation model evaluation and response orchestration for the Lunit hackathon. |
+| [Multimodal Immersion Classification](https://github.com/yunakinn/multimodal-immersion-classification) | EEGNet and CNN encoders with modality attention for classifying immersion states from EEG, GSR, and PPG signals. |
+| [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | YOLO-based scooter parking violation detection with risk scoring and a Streamlit dashboard. |
+| [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | YOLO-based detection with targeted augmentation and evaluation across random seeds. Computer Vision course project, Sep–Dec 2025. |
+| LLM Compression · LG Aimers 8th | Team project using GPTQ-based W4A16 quantization to explore trade-offs between model size and performance. Team lead, Jan–Feb 2026. |
+
+### Web Applications
+
+- [**HopeTail**](https://github.com/HopeTail-Teamproject/HopeTail-FE) — React and Vite frontend for an animal adoption service, including adoption listings and account pages.
 
 ## Tech Stack
 
