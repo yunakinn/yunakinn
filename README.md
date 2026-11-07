@@ -2,7 +2,7 @@
 
 **ICT & AI Undergraduate · Hanyang University ERICA**
 
-I enjoy applying AI to practical problems, with a particular interest in healthcare and biomedical applications. My experience spans biosignal analysis, computer vision, speech processing, and model evaluation, including both experiments and application development.
+I enjoy applying AI to practical problems, with a particular interest in healthcare and biomedical applications. I have worked on biosignal analysis, computer vision, speech processing, and model evaluation.
 
 [LinkedIn](https://www.linkedin.com/in/yunakinn/)
 
@@ -18,7 +18,7 @@ I designed a fusion model and preprocessing pipeline to classify immersion state
 ### [VLM Privacy Evaluation](https://github.com/yunakinn/vlm-privacy)
 *Model evaluation · Privacy · USTC FUSEP 2026*
 
-I compared hallucination-mitigation methods to examine their effects on confidence, accuracy, and calibration in sensitive-attribute inference. Across the evaluated settings, confidence increased in 17 of 18 comparisons, while accuracy and calibration changed inconsistently.
+I compared hallucination-mitigation methods to examine their effects on confidence, accuracy, and calibration in sensitive-attribute inference. Confidence increased in 17 of 18 comparisons, without consistent improvements in accuracy or calibration.
 
 [Code](https://github.com/yunakinn/vlm-privacy) · [Results](https://github.com/yunakinn/vlm-privacy#key-finding) · [Poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
 
@@ -29,7 +29,7 @@ I compared hallucination-mitigation methods to examine their effects on confiden
 | [MalCard](https://github.com/yunakinn/malcard-backend) | Pronunciation assessment backend with phoneme alignment, scoring, and feedback · FastAPI |
 | [Lunit Hackathon](https://github.com/yunakinn/lunit_urusa) | Medical conversation model evaluation and response orchestration |
 | [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | Parking detection, report management, and pickup route planning · YOLO, Streamlit |
-| [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Thermal image detection with targeted augmentation and validation/test evaluation · YOLO |
+| [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Object detection in thermal images with YOLO |
 | LLM Compression · LG Aimers 8th | GPTQ-based W4A16 quantization and model size–performance trade-offs · Team lead |
 | [HopeTail](https://github.com/HopeTail-Teamproject/HopeTail-FE) | Animal adoption frontend with listings and account pages · React, Vite |
 
@@ -63,5 +63,3 @@ I compared hallucination-mitigation methods to examine their effects on confiden
 
 **B.Sc. in ICT and Artificial Intelligence · Hanyang University ERICA**  
 Mar 2022 – Present · Expected graduation: Jul 2027
-
-
