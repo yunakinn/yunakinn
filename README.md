@@ -15,13 +15,6 @@ Classifying immersion states from EEG, GSR, and PPG signals. I designed a multim
 
 [Code & project details](https://github.com/yunakinn/multimodal-immersion-classification)
 
-### [MalCard](https://github.com/yunakinn/malcard-backend)
-**Speech processing · Backend integration · FastAPI**
-
-A pronunciation assessment backend that aligns phonemes, scores speech, and generates feedback. My contributions include connecting prosody and full-analysis endpoints and updating the adapter that integrates prosody analysis into the backend.
-
-[Code](https://github.com/yunakinn/malcard-backend) · [My contributions](https://github.com/yunakinn/malcard-backend/commits?author=yunakinn)
-
 ### [VLM Privacy Evaluation](https://github.com/yunakinn/vlm-privacy)
 **Model evaluation · Privacy · USTC FUSEP 2026**
 
@@ -33,6 +26,7 @@ I evaluated how hallucination-mitigation methods affect confidence, accuracy, an
 
 | Project | What it explores | Tools / context |
 | :--- | :--- | :--- |
+| [MalCard](https://github.com/yunakinn/malcard-backend) | Pronunciation assessment with phoneme alignment, scoring, and feedback. | Speech processing · FastAPI |
 | [Lunit Hackathon](https://github.com/yunakinn/lunit_urusa) | Medical conversation model evaluation and response orchestration. | Medical AI · LLMs |
 | [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | Detecting parking violations, assigning risk scores, and displaying results in a dashboard. | YOLO · Streamlit |
 | [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Detection with targeted augmentation and evaluation across random seeds. | YOLO · Computer Vision course, Sep–Dec 2025 |
@@ -72,3 +66,4 @@ Tools I've used across research, coursework, and application projects.
 **Hanyang University ERICA, South Korea**  
 B.Sc. in ICT and Artificial Intelligence  
 Mar 2022 – Present · Expected graduation: Jul 2027
+
