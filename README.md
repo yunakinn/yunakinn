@@ -28,7 +28,7 @@ I compared hallucination-mitigation methods to examine their effects on confiden
 | :--- | :--- |
 | [MalCard](https://github.com/yunakinn/malcard-backend) | Pronunciation assessment backend with phoneme alignment, scoring, and feedback · FastAPI |
 | [Lunit Hackathon](https://github.com/yunakinn/lunit_urusa) | Medical conversation model evaluation and response orchestration |
-| [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | Parking detection, report management, and pickup route planning · YOLO, Streamlit · [Demo](https://github.com/yunakinn/scooter-anomaly-detection#application-preview) |
+| [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | Parking detection, report management, and pickup route planning · YOLO, Streamlit |
 | [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Thermal image detection with targeted augmentation and validation/test evaluation · YOLO |
 | LLM Compression · LG Aimers 8th | GPTQ-based W4A16 quantization and model size–performance trade-offs · Team lead |
 | [HopeTail](https://github.com/HopeTail-Teamproject/HopeTail-FE) | Animal adoption frontend with listings and account pages · React, Vite |
