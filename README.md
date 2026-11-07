@@ -4,7 +4,7 @@
 
 I enjoy applying AI to practical problems, with a particular interest in healthcare and biomedical applications. My experience spans biosignal analysis, computer vision, speech processing, and model evaluation, including both experiments and application development.
 
-[LinkedIn](https://www.linkedin.com/in/yunakinn/) · [Research poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
+[LinkedIn](https://www.linkedin.com/in/yunakinn/)
 
 ## Featured Work
 
@@ -13,12 +13,14 @@ I enjoy applying AI to practical problems, with a particular interest in healthc
 
 I designed a fusion model and preprocessing pipeline to classify immersion states from EEG, GSR, and PPG signals. The model combines an EEGNet-inspired encoder with separate CNN encoders for GSR and PPG, then fuses their features through modality attention.
 
+[Code](https://github.com/yunakinn/multimodal-immersion-classification) · [Results](https://github.com/yunakinn/multimodal-immersion-classification#reported-results) · [Model](https://github.com/yunakinn/multimodal-immersion-classification#model)
+
 ### [VLM Privacy Evaluation](https://github.com/yunakinn/vlm-privacy)
 *Model evaluation · Privacy · USTC FUSEP 2026*
 
 I compared hallucination-mitigation methods to examine their effects on confidence, accuracy, and calibration in sensitive-attribute inference. Across the evaluated settings, confidence increased in 17 of 18 comparisons, while accuracy and calibration changed inconsistently.
 
-[Results & implementation](https://github.com/yunakinn/vlm-privacy) · [Poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
+[Code](https://github.com/yunakinn/vlm-privacy) · [Results](https://github.com/yunakinn/vlm-privacy#key-finding) · [Poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
 
 ## More Projects
 
@@ -26,7 +28,7 @@ I compared hallucination-mitigation methods to examine their effects on confiden
 | :--- | :--- |
 | [MalCard](https://github.com/yunakinn/malcard-backend) | Pronunciation assessment backend with phoneme alignment, scoring, and feedback · FastAPI |
 | [Lunit Hackathon](https://github.com/yunakinn/lunit_urusa) | Medical conversation model evaluation and response orchestration |
-| [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | Parking detection, report management, and pickup route planning · YOLO, Streamlit |
+| [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | Parking detection, report management, and pickup route planning · YOLO, Streamlit · [Demo](https://github.com/yunakinn/scooter-anomaly-detection#application-preview) |
 | [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Thermal image detection with targeted augmentation and validation/test evaluation · YOLO |
 | LLM Compression · LG Aimers 8th | GPTQ-based W4A16 quantization and model size–performance trade-offs · Team lead |
 | [HopeTail](https://github.com/HopeTail-Teamproject/HopeTail-FE) | Animal adoption frontend with listings and account pages · React, Vite |
@@ -61,4 +63,5 @@ I compared hallucination-mitigation methods to examine their effects on confiden
 
 **B.Sc. in ICT and Artificial Intelligence · Hanyang University ERICA**  
 Mar 2022 – Present · Expected graduation: Jul 2027
+
 
