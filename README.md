@@ -1,49 +1,40 @@
 # Yuna Kim
 
-**ICT & AI undergraduate at Hanyang University ERICA**
+**ICT & AI Undergraduate · Hanyang University ERICA**  
+Expected graduation: Jul 2027
 
-I enjoy applying AI to practical problems, with a particular interest in healthcare and biomedical applications. My projects span biosignal analysis, computer vision, speech processing, and model evaluation—from preparing data and running experiments to connecting models to applications.
+I'm interested in applying AI to practical problems, especially in healthcare and biomedical applications.
 
 [LinkedIn](https://www.linkedin.com/in/yunakinn/) · [Research poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
 
 ## Featured Work
 
 ### [Multimodal Immersion Classification](https://github.com/yunakinn/multimodal-immersion-classification)
-**Biosignals · Multimodal learning · PyTorch**
-
-Classifying immersion states from EEG, GSR, and PPG signals. I designed a multimodal fusion model and built the preprocessing pipeline for signal segmentation and cross-modal standardization. The implementation combines EEGNet and CNN encoders with modality attention.
-
-[Code & project details](https://github.com/yunakinn/multimodal-immersion-classification)
+Designed a fusion model and preprocessing pipeline to classify immersion states from EEG, GSR, and PPG signals.
 
 ### [VLM Privacy Evaluation](https://github.com/yunakinn/vlm-privacy)
-**Model evaluation · Privacy · USTC FUSEP 2026**
-
-I evaluated how hallucination-mitigation methods affect confidence, accuracy, and calibration when a vision-language model predicts sensitive attributes. In these experiments, confidence increased in 17 of 18 comparisons, while accuracy and calibration changed inconsistently.
-
-[Code & results](https://github.com/yunakinn/vlm-privacy) · [Poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
+Evaluated how hallucination-mitigation methods affect confidence, accuracy, and calibration in sensitive-attribute inference. [Poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
 
 ## More Projects
 
-| Project | What it explores | Tools / context |
-| :--- | :--- | :--- |
-| [MalCard](https://github.com/yunakinn/malcard-backend) | Pronunciation assessment with phoneme alignment, scoring, and feedback. | Speech processing · FastAPI |
-| [Lunit Hackathon](https://github.com/yunakinn/lunit_urusa) | Medical conversation model evaluation and response orchestration. | Medical AI · LLMs |
-| [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | Detecting parking violations, assigning risk scores, and displaying results in a dashboard. | YOLO · Streamlit |
-| [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Detection with targeted augmentation and evaluation across random seeds. | YOLO · Computer Vision course, Sep–Dec 2025 |
-| LLM Compression | Team project exploring model size–performance trade-offs with GPTQ-based W4A16 quantization. | LG Aimers 8th · Team lead, Jan–Feb 2026 |
-| [HopeTail](https://github.com/HopeTail-Teamproject/HopeTail-FE) | An animal adoption service frontend with adoption listings and account pages. | React · Vite |
+| Project | Focus |
+| :--- | :--- |
+| [MalCard](https://github.com/yunakinn/malcard-backend) | Pronunciation assessment backend · FastAPI |
+| [Lunit Hackathon](https://github.com/yunakinn/lunit_urusa) | Medical conversation model evaluation |
+| [Scooter Parking Detection](https://github.com/yunakinn/scooter-anomaly-detection) | Parking detection and reporting dashboard · YOLO, Streamlit |
+| [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Thermal image detection · YOLO |
+| LLM Compression | GPTQ quantization · LG Aimers 8th, team lead |
+| [HopeTail](https://github.com/HopeTail-Teamproject/HopeTail-FE) | Animal adoption frontend · React, Vite |
 
 ## Research Experience
 
-| When | Where | Work |
-| :--- | :--- | :--- |
-| Jun–Jul 2026 | **University of Science and Technology of China** · FUSEP Research Intern | Compared baseline decoding, VCD, M3ID, and ICD using LLaVA-1.5-7B for privacy-sensitive attribute inference. |
-| Feb–Aug 2026 | **HAI Lab, Hanyang University** · Undergraduate Research Intern | Explored foundation models for environmental segmentation and detection. |
-| Mar–Sep 2025 | **DHL Lab, Hanyang University** · Undergraduate Research Intern | Designed a multimodal immersion classifier and a preprocessing pipeline for EEG, GSR, and PPG signals. |
+| Period | Experience |
+| :--- | :--- |
+| Jun–Jul 2026 | **USTC FUSEP** · Research Intern |
+| Feb–Aug 2026 | **HAI Lab, Hanyang University** · Undergraduate Research Intern |
+| Mar–Sep 2025 | **DHL Lab, Hanyang University** · Undergraduate Research Intern |
 
 ## Tech Stack
-
-Tools I've used across research, coursework, and application projects.
 
 **AI & Data**
 
@@ -60,10 +51,4 @@ Tools I've used across research, coursework, and application projects.
 **Development**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-## Education
-
-**Hanyang University ERICA, South Korea**  
-B.Sc. in ICT and Artificial Intelligence  
-Mar 2022 – Present · Expected graduation: Jul 2027
 
