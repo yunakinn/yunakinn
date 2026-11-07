@@ -6,19 +6,19 @@ I enjoy applying machine learning to practical problems and seeing how models wo
 
 [LinkedIn](https://www.linkedin.com/in/yunakinn/) · [FUSEP Poster](https://github.com/yunakinn/vlm-privacy/blob/main/assets/poster/research_poster.png)
 
-## 🎯 Interests
+## Interests
 
 - AI for healthcare and biomedical applications
 - Biosignal analysis and multimodal learning
 - Computer vision and anomaly detection
 
-## 🎓 Education
+## Education
 
 **Hanyang University ERICA, South Korea**  
 B.Sc. in ICT and Artificial Intelligence  
 Mar 2022 – Present · Expected graduation: Jul 2027
 
-## 🔬 Experience
+## Experience
 
 ### University of Science and Technology of China · FUSEP
 **Research Intern · Jun–Jul 2026**
@@ -39,7 +39,7 @@ Mar 2022 – Present · Expected graduation: Jul 2027
 - Built a preprocessing pipeline for signal segmentation and cross-modal standardization in PyTorch.
 - [Project](https://github.com/yunakinn/multimodal-immersion-classification)
 
-## 💻 Selected Projects
+## Selected Projects
 
 | Project | What I worked on |
 | :--- | :--- |
@@ -47,11 +47,20 @@ Mar 2022 – Present · Expected graduation: Jul 2027
 | [Thermal Image Anomaly Detection](https://github.com/yunakinn/thermal-image-anomaly-detection) | Developed a YOLO-based detection pipeline with targeted augmentation and evaluation across random seeds. Computer Vision course project, Sep–Dec 2025. |
 | LLM Compression · LG Aimers 8th | Led a team project using GPTQ-based W4A16 quantization to explore trade-offs between model size and performance. Jan–Feb 2026. |
 
-## 🛠️ Skills & Tools
+## Tech Stack
 
-| Area | Tools and methods I've used |
-| :--- | :--- |
-| Programming | Python, MATLAB, JavaScript |
-| Machine learning | PyTorch, TensorFlow, scikit-learn |
-| Computer vision & data | YOLO, OpenCV, NumPy |
-| Development | Git, Docker, Linux, Jupyter Notebook |
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### AI & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![librosa](https://img.shields.io/badge/librosa-8A2BE2?style=for-the-badge)
+
+### Web & Applications
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
